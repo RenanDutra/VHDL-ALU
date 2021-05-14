@@ -16,5 +16,12 @@ The code has a structural architecture where each operation has sub-components (
 Also, the code was implemented on a Cyclone IV FPGA remotely using the platform "Labsland".
 
 Some examples of the ALU working:
+
+- _Power Operation_
+
 ![Alt text](potencia.jpg?raw=true "Power Operation")
+
+- _Or Operation_
+
 ![Alt text](or.jpg?raw=true "Or Operation")
+
